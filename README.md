@@ -11,3 +11,4 @@ We started our journey in this pandemic period, not just to be innovative but to
 ![chef](https://user-images.githubusercontent.com/98114795/196511533-adfa56f0-0fa8-40c4-b6da-fbe22537b968.png)
 ![awards](https://user-images.githubusercontent.com/98114795/196511538-7781bad7-70c8-4801-8b66-40109e3982c9.png)
 ![contact ](https://user-images.githubusercontent.com/98114795/196511544-4840cc7b-7ea8-434e-a561-542ce07f8b44.png)
+![footer](https://user-images.githubusercontent.com/98114795/196511756-45b7d485-1cb9-492c-aec2-6bb8f6589e19.png)
